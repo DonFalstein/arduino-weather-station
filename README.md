@@ -1,2 +1,3 @@
-# arduion-weather-station
+# Arduino Weather Station
+
 Arduino Weather Station
